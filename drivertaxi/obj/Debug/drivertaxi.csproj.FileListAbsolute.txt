@@ -1,0 +1,7 @@
+D:\semester2\pemograman\Class dan Object\drivertaxi\drivertaxi\bin\Debug\drivertaxi.exe.config
+D:\semester2\pemograman\Class dan Object\drivertaxi\drivertaxi\bin\Debug\drivertaxi.exe
+D:\semester2\pemograman\Class dan Object\drivertaxi\drivertaxi\bin\Debug\drivertaxi.pdb
+D:\semester2\pemograman\Class dan Object\drivertaxi\drivertaxi\obj\Debug\drivertaxi.csprojAssemblyReference.cache
+D:\semester2\pemograman\Class dan Object\drivertaxi\drivertaxi\obj\Debug\drivertaxi.csproj.CoreCompileInputs.cache
+D:\semester2\pemograman\Class dan Object\drivertaxi\drivertaxi\obj\Debug\drivertaxi.exe
+D:\semester2\pemograman\Class dan Object\drivertaxi\drivertaxi\obj\Debug\drivertaxi.pdb
